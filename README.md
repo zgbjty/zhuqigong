@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @konchoo。
 - 👀 I’m interested in coding，sci-fi movie and show 。
-- 💞️ Now,I’m looking for a new job。
+- 💞️ Now I’m looking for a new job。
 - 📫 371292290@qq.com
 
 <!---
