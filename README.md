@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @zhuqigong。
-- 👀 I’m interested in coding，sci-fi movie and tv shows 。
-- 💞️ Now I’m looking for a new job。
 - 📫 371292290@qq.com
 
 <!---
